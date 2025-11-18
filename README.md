@@ -1,3 +1,5 @@
+# ⚠️ This is repo is not update-to-date anymore. Please use this https://github.com/cellgeni/Image-ST repo. Happy decoding there!
+
 PaSTa is a nextflow-based end-to-end image analysis pipeline for decoding image-based spatial transcriptomics data. It performs imaging cycle registration, cell segmentation and transcripts peak decoding. It is currently supports analysis of three types of ST technology:
 
 - in-situ sequencing-like encoding
